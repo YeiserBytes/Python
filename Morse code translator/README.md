@@ -7,7 +7,7 @@ This is a morse code translator. have fun using it.
 ## Windows
 ##### download [curl](https://curl.se/windows/)
 ```
-curl -OL https://raw.githubusercontent.com/YeiserDeveloper/Python/main/Pycraft/game.py
+curl -OL https://raw.githubusercontent.com/YeiserDeveloper/Python/main/Morse-code-translator/main.py
 
 python3 game.py
 ```
