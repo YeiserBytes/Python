@@ -1,4 +1,4 @@
 # Python
-##Proyects of python
+## Proyects of python
 
-###Here I have all my python projects
+### Here I have all my python projects
