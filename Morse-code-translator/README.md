@@ -4,16 +4,17 @@ This is a morse code translator. have fun using it.
 
 # Usage
 
-## Windows:
+## Windows
+##### download [curl](https://curl.se/windows/)
 ```
-git clone 
-dir 
-python3 main.py
+curl -OL https://raw.githubusercontent.com/YeiserDeveloper/Python/main/Pycraft/game.py
+
+python3 game.py
 ```
 
-## linux: 
+## linux 
 ```
-git clone https:
-cd Morse-code-translator 
+curl -OL https://raw.githubusercontent.com/YeiserDeveloper/Python/main/Morse-code-translator/main.py
+
 python3 main.py
 ```

@@ -22,17 +22,25 @@ MacOS -> Run the .pkg
 Debian -> sudo apt install python3
 ```
 
-
 ### With pip
 ```
 pip install ursina
+
 pip3 install ursina
 ```
 
-### Repo
+## Linux
+#### sudo apt install curl
 ```
-git clone https://github.com/YeiserDeveloper/
-cd PyCraft
+curl -OL https://raw.githubusercontent.com/YeiserDeveloper/Python/main/Pycraft/game.py
+
+python3 game.py
+```
+## Windows
+##### download [curl](https://curl.se/windows/)
+```
+curl -OL https://raw.githubusercontent.com/YeiserDeveloper/Python/main/Pycraft/game.py
+
 python3 game.py
 ```
 
@@ -44,6 +52,7 @@ python -m pip install ursina
 
 ```
 git clone https://github.com/pokepetter/ursina
+
 python setup.py develop
 ```
 #### or
