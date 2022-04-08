@@ -17,6 +17,3 @@ git clone https:
 cd Morse-code-translator 
 python3 main.py
 ```
-
-
-&copy; 2004 Foo Corporation
