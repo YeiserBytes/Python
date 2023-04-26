@@ -1,0 +1,7 @@
+name: my-environment
+channels:
+  - conda
+dependencies:
+  - numpy
+  - ursina
+  - pygame
